@@ -1,3 +1,16 @@
+/* *{
+    margin: 0;
+    padding: 0;
+} */
 h1{
-    color: blueviolet;
+    color: rgb(26, 230, 213);
+    text-align: center;
 }
+label{
+    display: block;
+    margin: 10px;
+}
+fieldset{
+    width: 50%;
+}
+
